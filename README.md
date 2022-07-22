@@ -1,9 +1,14 @@
 # World_Weather_Analysis
 #
 
-## Deliverable 1: Weather_Database
-## Deliverable 2: Vacation_Search
-## Deliverable 3: Vacation_Itinerary
+### Deliverable 1: Weather_Database
+#### Retrieve weather data for 2,000 randomly generated cities.
+
+### Deliverable 2: Vacation_Search
+#### Get user input for weather preferences. Create map showing potential travel destinations based on weather preferences.
+
+### Deliverable 3: Vacation_Itinerary
+#### Create a travel itinerary map between four cities that have the user's preferred  weather.
 
 #
 
@@ -21,3 +26,4 @@
 #### Jupyter Notebook 6.4.8
 #### Matplotlib 3.5.1
 #### Numpy 1.23.0
+#### Citipy 0.0.5
