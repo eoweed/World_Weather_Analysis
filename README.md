@@ -16,12 +16,12 @@ The purpose of this project is to create an application that will provide potent
 3)	Perform API calls to Google Maps API and retrieve hotels that are in cities with the user’s preferred weather.
 4)	Create a data frame to combine all the possible hotel options.
 5)	Create a Google Map with markers that show all possible hotel options.
-<img src=" https://github.com/eoweed/World_Weather_Analysis/blob/main/Images/WeatherPy_vacation_map.png" style="height:50; width:50;"/> 
+<img src="https://github.com/eoweed/World_Weather_Analysis/blob/main/Images/WeatherPy_vacation_map.png" height=50; width=50;/> 
 
 #### Part 3:
 1)	Use the Google Map of hotel options to choose four nearby cities in order to create a travel itinerary.
 2)	Create a map showing a travel route to visit each of the four cities.
-<img src=" https://github.com/eoweed/World_Weather_Analysis/blob/main/Images/WeatherPy_travel_map.png" style="height:50; width:50;"/> 
+<img src="https://github.com/eoweed/World_Weather_Analysis/blob/main/Images/WeatherPy_travel_map.png" height=50; width=50;/> 
 
 
 ## References:
