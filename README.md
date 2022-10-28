@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The purpose of this project is to create an application that will provide potential vacation itineraries for up to 2,000 destinations worldwide. Part 1 creates a database for the weather data on the 2,000 randomly generated cities. Part 2 asks for input on your preferred temperature at a destination. Part 3 creates a travel itinerary map between four nearby cities that have your preferred temperature. 
+The purpose of this project is to create an application that will provide potential vacation itineraries for up to 2,000 destinations worldwide. Part 1 creates a database for the weather data on 2,000 randomly generated cities. Part 2 asks for input on your preferred temperature at a destination and generates a list of hotel options. Part 3 creates a travel itinerary map between four nearby cities and hotels that have your preferred temperature. 
 
 #### Part 1:
 1)	Generate 2,000 random latitude and longitude coordinates.
